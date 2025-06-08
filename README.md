@@ -36,7 +36,7 @@ I'm always eager to expand my knowledge and explore new technologies. My recent 
 
 - **HTML & CSS & JavaScript**: Continuously improving my web development skills.
 - **Java**: Building robust applications and games.
-- **Python**: Exploring scripting, data analysis, and machine learning.
+- **Python**: Exploring scripting and data analysis.
 - **C & C++**: Deepening my understanding of system-level programming.
 - **PL/SQL**: Enhancing my database management capabilities.
 
