@@ -8,7 +8,7 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
 
 ### Web Development
 
-- **eLearningWebsite**: A web-based platform for e-learning, demonstrating my abilities in front-end development with HTML.
+- **eLearningWebsite**: A web-based platform for e-learning, demonstrating my abilities in front-end development with HTML. (Still working on it)
 - **TypingGameWebsite**: An interactive typing game built with CSS, showcasing my creativity in web design and user experience.
 - **WEB-DEVELOPMENT**: A collection of various web development projects, highlighting my proficiency in HTML.
 
@@ -30,22 +30,14 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
 - **Python_Projects**: A collection of my Python projects, demonstrating my versatility in scripting and application development.
 - **C_Projects**: Various projects implemented in C, highlighting my understanding of low-level programming concepts.
 
-### Machine Learning
-
-- **Neural_Network_Project**: A project focused on neural networks, showcasing my interest and foundational knowledge in machine learning.
-
-### Cybersecurity
-
-- **CyberHorizonSecurinetsFst2025**: A project related to cybersecurity, indicating my engagement in this critical field.
-
 ## What I'm Learning / Exploring
 
 I'm always eager to expand my knowledge and explore new technologies. My recent activities show a focus on:
 
-- **HTML & CSS**: Continuously improving my web development skills.
+- **HTML & CSS & JavaScript**: Continuously improving my web development skills.
 - **Java**: Building robust applications and games.
 - **Python**: Exploring scripting, data analysis, and machine learning.
-- **C**: Deepening my understanding of system-level programming.
+- **C & C++**: Deepening my understanding of system-level programming.
 - **PL/SQL**: Enhancing my database management capabilities.
 
 ## Get in Touch
