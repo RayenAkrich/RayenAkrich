@@ -1,8 +1,8 @@
-# Hi there, I'm Rayen Akriche!
+# 👋 Hi there, I'm Rayen Akriche!
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in various programming languages and technologies. Here, you'll find a collection of my projects, showcasing my skills and dedication to creating innovative solutions.
 
-## My Projects
+## 🔭 My Projects
 
 I enjoy working on diverse projects, and my repositories reflect my journey through different programming paradigms and challenges. Here are some highlights:
 
@@ -30,7 +30,7 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
 - **Python_Projects**: A collection of my Python projects, demonstrating my versatility in scripting and application development.
 - **C_Projects**: Various projects implemented in C, highlighting my understanding of low-level programming concepts.
 
-## What I'm Learning / Exploring
+## 🛠️ What I'm Learning / Exploring
 
 I'm always eager to expand my knowledge and explore new technologies. My recent activities show a focus on:
 
@@ -40,7 +40,7 @@ I'm always eager to expand my knowledge and explore new technologies. My recent 
 - **C & C++**: Deepening my understanding of system-level programming.
 - **PL/SQL**: Enhancing my database management capabilities.
 
-## Get in Touch
+## 🌐 Get in Touch
 
 Feel free to connect with me on:
 
