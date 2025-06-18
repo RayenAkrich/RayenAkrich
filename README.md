@@ -47,7 +47,7 @@ Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/akricherayen)
 - [Instagram](https://www.instagram.com/rayen._.akrich)
 - [Facebook](https://www.facebook.com/rayen.akrich.0)
-- [Gmail](akricherayen@gmail.com)
+- [Gmail](mailto:akricherayen@gmail.com)
 
 Thanks for visiting my profile!
 
