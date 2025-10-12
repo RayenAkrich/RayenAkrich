@@ -8,7 +8,7 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
 
 ### SecurinetsFST Projects
 
-- **[Admin Portal](https://github.com/RayenAkrich/admin-portal)**: Un système web permettant aux organisateurs de l’événement SecuriNets FST de gérer les présences via scan de QR codes, synchronisé avec une base de données PostgreSQL pour un suivi en temps réel des participants.
+- **[Admin Portal](https://github.com/RayenAkrich/admin-portal)**: A web-based system that allows SecuriNets FST event organizers to manage attendance via QR code scanning, synchronized with a PostgreSQL database for real-time participant tracking.
 - **[SecurinetsPaymentReceipt](https://github.com/RayenAkrich/SecurinetsPaymentReceipt)**: This project automates the generation and emailing of membership payment receipts for SecuriNets FST club members.
   
 ### Web Development
