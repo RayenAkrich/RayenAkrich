@@ -6,12 +6,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 I enjoy working on diverse projects, and my repositories reflect my journey through different programming paradigms and challenges. Here are some highlights:
 
+### SecurinetsFST Projects
+
+- **[Admin Portal](https://github.com/RayenAkrich/admin-portal)**: Un système web permettant aux organisateurs de l’événement SecuriNets FST de gérer les présences via scan de QR codes, synchronisé avec une base de données PostgreSQL pour un suivi en temps réel des participants.
+- **[SecurinetsPaymentReceipt](https://github.com/RayenAkrich/SecurinetsPaymentReceipt)**: This project automates the generation and emailing of membership payment receipts for SecuriNets FST club members.
+  
 ### Web Development
 
 - **[eLearningWebsite](https://github.com/RayenAkrich/eLearningWebsite)**: A web-based platform for e-learning, demonstrating my abilities in front-end development with HTML , CSS and back-end with Python and JavaScript
 - **[TypingGameWebsite](https://github.com/RayenAkrich/TypingGameWebsite)**: An interactive typing game built with CSS, showcasing my creativity in web design and user experience.
 - **[WEB-DEVELOPMENT](https://github.com/RayenAkrich/WEB-DEVELOPMENT)**: A collection of various web development projects, highlighting my proficiency in HTML.
-- **[Admin Portal](https://github.com/RayenAkrich/admin-portal)**: Un système web permettant aux organisateurs de l’événement SecuriNets FST de gérer les présences via scan de QR codes, synchronisé avec une base de données PostgreSQL pour un suivi en temps réel des participants.
 
 ### Game Development
 
