@@ -78,6 +78,3 @@ By default, my repositories are under the [MIT License](https://opensource.org/l
 
 #### GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayenAkrich&show_icons=true&theme=radical)
-
-#### Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RayenAkrich&theme=radical)
