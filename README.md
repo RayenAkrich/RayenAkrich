@@ -10,8 +10,9 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
 
 - **[Admin Portal](https://github.com/RayenAkrich/admin-portal)**: A web-based system that allows SecuriNets FST event organizers to manage attendance via QR code scanning, synchronized with a PostgreSQL database for real-time participant tracking.
 - **[SecurinetsPaymentReceipt](https://github.com/RayenAkrich/SecurinetsPaymentReceipt)**: This project automates the generation and emailing of membership payment receipts for SecuriNets FST club members.
-- **[platformeRH]()**: (currently private) An interactive human resource platform dedicated to the management of members, events, projects and communications within the Securinets club
-  
+- **[platformeRH](https://github.com/helazouch/platformeRH)**: (currently private) An interactive human resource platform dedicated to the management of members, events, projects and communications within the Securinets club
+- **[Securi-Quiz](https://github.com/RayenAkrich/Securinets-Quiz)**:Securinets-Quiz is an online platform developed for the SecurinetsFST organization. It is designed to host tests in the form of quizzes, allowing users to participate in exams and receive instant feedback on their results.
+-   
 ### Web Development
 
 - **[eLearningWebsite](https://github.com/RayenAkrich/eLearningWebsite)**: A web-based platform for e-learning, demonstrating my abilities in front-end development with HTML , CSS and back-end with Python and JavaScript
