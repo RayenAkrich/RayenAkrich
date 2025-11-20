@@ -15,6 +15,7 @@ I enjoy working on diverse projects, and my repositories reflect my journey thro
   
 ### Web Development
 
+- **[GitKPI](https://github.com/RayenAkrich/GitKPI)**: An Angular application that visualizes Key Performance Indicators (KPIs) for GitHub users and repositories 
 - **[eLearningWebsite](https://github.com/RayenAkrich/eLearningWebsite)**: A web-based platform for e-learning, demonstrating my abilities in front-end development with HTML , CSS and back-end with Python and JavaScript
 - **[TypingGameWebsite](https://github.com/RayenAkrich/TypingGameWebsite)**: An interactive typing game built with CSS, showcasing my creativity in web design and user experience.
 - **[WEB-DEVELOPMENT](https://github.com/RayenAkrich/WEB-DEVELOPMENT)**: A collection of various web development projects, highlighting my proficiency in HTML.
@@ -46,6 +47,12 @@ I'm always eager to expand my knowledge and explore new technologies. My recent 
 - **Python**: Exploring scripting and data analysis.
 - **C & C++**: Deepening my understanding of system-level programming.
 - **PL/SQL**: Enhancing my database management capabilities.
+- **React**: Building modern, dynamic user interfaces.
+- **Python Flask**: Developing lightweight web applications and APIs.
+- **Springboot**: Creating robust, production-ready applications with Java.
+- **Angular**: Mastering a comprehensive framework for complex front-end development.
+- **Express.js**: Building fast, minimalist back-end web applications with Node.js.
+
 
 ## 🌐 Get in Touch
 
