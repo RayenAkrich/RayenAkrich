@@ -1,6 +1,9 @@
-# 💫 About Me:
-# 👋 Hi there, I'm Rayen Akriche!<br><br>Welcome to my GitHub profile! I'm a passionate developer with a keen interest in various programming languages and technologies. Here, you'll find a collection of my projects, showcasing my skills and dedication to creating innovative solutions.<br><br> 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=HI+STALKER!;I+AM+RAYEN;ENGINEERING+STUDENT;SOFTWARE/WEB+DEVELOPER;CYBERSECURITY+ENJOYER;SELF+LEARNER" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7ankalis&label=IP_LOGS&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/la3zouzos) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rayen.akrich.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayen._.akrich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akricherayen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akricherayen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akrichrayen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akricherayen@gmail.com) 
 
