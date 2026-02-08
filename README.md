@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=HI+STALKER!;I+AM+RAYEN;ENGINEERING+STUDENT;SOFTWARE/WEB+DEVELOPER;CYBERSECURITY+ENJOYER;SELF+LEARNER" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7ankalis&label=IP_LOGS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RayenAkrich&label=IP_LOGS&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ## 🌐 Socials:
